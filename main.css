@@ -1,0 +1,160 @@
+.nav ul{
+    list-style: none;
+    display: flex;
+    margin-top: 1rem;
+}
+.nav img{
+    width: 55%;
+}
+.nav a{
+    margin-left: 42rem;
+    color: black;
+    font-size: 17px;
+    border-bottom: 1px dotted;
+}
+.home-img img{
+    width: 100%;
+}
+.box{
+    width: 500px;
+    margin-left: 28rem;
+    margin-top: -4rem;
+    color: #fff;
+    height: 256px;
+}
+.box-head{
+    display: flex;
+}
+.first img{
+    width: 15%;
+    margin-left: 2rem;
+    margin-right: 5px;
+}
+.first{
+    background-color: #fff;
+    border-radius: 8px 8px 0px 0px;
+    padding: 1rem 3rem 1rem 3rem;
+}
+.first a{
+    color: red;
+    font-size: 21px;
+}
+.second img{
+    width: 15%;
+    margin-left: 2rem;
+    margin-right: 5px;
+}
+.second{
+    background-color: rgb(177, 177, 177);
+    padding: 1rem 3.4rem 1rem 3rem;
+    border-radius: 8px 8px 0px 0px;
+}
+.second a{
+    color: black;
+    font-size: 20px;
+}
+.del-txt{
+    margin: 1rem 1rem 1rem 1rem;
+}
+.del-txt h5{
+    color: black;
+}
+.del-txt p{
+    color: black;
+    font-size: 15px;
+}
+.location-box{
+    margin: 1rem 1rem 1rem 1rem;
+}
+.find-box{
+    display: flex;
+    margin: 1rem 1rem 1rem 2rem;
+}
+.find-box img{
+    height: 16px;
+    width: 16px;
+    margin: 5px 15px 0px 0px;
+}
+.find-box p{
+    color: #4a90e2
+}
+.border-line{
+    border: 0 solid #e9ebee;
+}
+.lower{
+    margin-top: 3rem;
+}
+.low-img{
+    margin-top: 1rem;
+    margin-left: 19rem;
+}
+.low-img p{
+    margin-right: 295px;
+    font-size: 10px;
+    background-color: #454545;
+    color:#e9ebee;
+    text-align: center;
+}
+.btn{
+    margin: 0rem 0rem 1rem 3.5rem;
+}
+.btn a{
+    width: 70rem;
+    height: 3rem;
+    font-size: 23px;
+    background-color: #0a8020;
+}
+.footer{
+    background-color: #000;
+
+}
+.menu {
+    display: flex;
+    color: #fff;
+}
+.menu ul li{
+    list-style: none;
+    font-size: 12px;
+}
+.menu h5{
+    margin-left: 2.3rem;
+    margin-top: 3rem;
+    margin-bottom: 15px;
+}
+.app{
+    margin: 1rem 1rem 2.5rem 27.5rem;
+}
+.feedback p{
+    color: #fff;
+    margin-left: 2.5rem;
+}
+.feedback a{
+    margin-top: 1rem;
+    border-radius: 7px;
+}
+.feedback h5{
+    color: #fff;
+    font-size: 18px;
+    margin-left: 3.7rem; 
+}
+.social{
+    display: flex;
+    list-style: none;
+    color: #fff;
+    font-size: 1.2rem;
+}
+.social a{
+    margin-right: 20px;
+    color: #fff;
+}
+.para p{
+    text-align: center;
+    font-size: 13px;
+    color: #78838c;
+}
+.para img{
+    width: 8%;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: 33rem ;
+}
